@@ -1,0 +1,115 @@
+.catalog-title {
+    margin-top: -30px;
+    padding-top: 0.5rem;
+    font-size: 2rem;
+    color: #688ea4;
+}
+
+.catalog-subtitle {
+    margin-top: -40px;
+    margin-bottom: 1px;
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+    color: #688ea4;
+}
+
+nav {
+    background-color: #688ea4;
+    width: 100%;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+li a:hover {
+    background-color:cadetblue;
+}
+
+.slide-wrapper {
+    margin: auto;
+    padding-top: 40px;
+}
+
+.card-image {
+    margin: auto;
+    border-radius: 15px;
+    width: 90%;
+    padding: 5px;
+    margin-top: -45px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.btn-male {
+    background-color: #688ea4;
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 18px 90px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.btn-female {
+    background-color: #688ea4;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 18px 90px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.btn-female:hover {
+    background-color: darkcyan;
+}
+
+.btn-male:hover {
+    background-color: darkcyan;
+}
+
+.padding-top {
+    padding-top: 15px;
+}
+
+.footer {
+    position: static;
+    padding: 6px;
+    margin-top: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #688ea4;
+    color: white;
+    text-align: center;
+}
